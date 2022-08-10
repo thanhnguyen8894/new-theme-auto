@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_BS_6_name</name>
+   <tag></tag>
+   <elementGuidId>e4ff5482-1d7b-4b7d-b97e-d33364bcd2d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[7]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b656a921-0ae8-4086-9a18-2fe3cabaef8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_title__RHbd9</value>
+      <webElementGuid>c9d2c309-d0ca-4960-ba45-ef7b61eec042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amiri 75 ml</value>
+      <webElementGuid>9cb94108-44f6-404d-a732-8a1b20e0de55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;styles_main___hWF4&quot;]/div[@class=&quot;main-page&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;product-list-container&quot;]/div[@class=&quot;styles_productCard__qAttO&quot;]/h1[@class=&quot;styles_title__RHbd9&quot;]</value>
+      <webElementGuid>8395068e-4d5c-4612-a93b-80c9f1c3c05b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[7]/h1</value>
+      <webElementGuid>73e13aa4-2920-425a-a31a-916f0f51118c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[5]/following::h1[1]</value>
+      <webElementGuid>613b15bc-7919-4ac6-b683-f4b216954863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[9]/following::h1[1]</value>
+      <webElementGuid>882d1138-1f8f-4e4a-a028-460df0907a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[10]/preceding::h1[1]</value>
+      <webElementGuid>df42b570-3b4b-4224-bd9c-e41cc168e575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Amiri 75 ml']/parent::*</value>
+      <webElementGuid>4c7b812d-438d-4b8d-a7c8-907239755d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/h1</value>
+      <webElementGuid>c34a00d2-8153-4c0e-8d2c-a280e8dff9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Amiri 75 ml' or . = 'Amiri 75 ml')]</value>
+      <webElementGuid>99f305b3-ba02-49fc-84e8-f73be57db598</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

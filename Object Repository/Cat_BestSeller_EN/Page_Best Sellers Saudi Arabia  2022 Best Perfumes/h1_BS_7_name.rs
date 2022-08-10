@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_BS_7_name</name>
+   <tag></tag>
+   <elementGuidId>a26d23f4-48d2-4c3f-a869-54978e07d025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[6]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3bd34ccf-b7e5-4fc8-a2ca-411659af13d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_title__RHbd9</value>
+      <webElementGuid>774b81a1-bfd5-4e81-a304-5c1858dd57c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ehsas (Khas) 100 ml</value>
+      <webElementGuid>96610b29-3a1b-43c5-9960-3ce44a9ac525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;styles_main___hWF4&quot;]/div[@class=&quot;main-page&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;product-list-container&quot;]/div[@class=&quot;styles_productCard__qAttO&quot;]/h1[@class=&quot;styles_title__RHbd9&quot;]</value>
+      <webElementGuid>c9ebe206-5e80-4baa-95bf-a37aa4416c57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[6]/h1</value>
+      <webElementGuid>218830b1-ae2c-43e8-b1cb-5f3b9ef94add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[4]/following::h1[1]</value>
+      <webElementGuid>5d87830f-c6b3-4c74-9249-4098d4a2501c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[8]/following::h1[1]</value>
+      <webElementGuid>7edcec2e-690e-41b0-b9cd-fe7d3c9888fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[9]/preceding::h1[1]</value>
+      <webElementGuid>75fb3f0e-4eeb-445f-9090-6c1fe17bce99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ehsas (Khas) 100 ml']/parent::*</value>
+      <webElementGuid>2cc022ab-ac60-452a-b3fa-1389f7a205cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/h1</value>
+      <webElementGuid>f58e5d81-685a-43ad-87e3-19f504de90a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Ehsas (Khas) 100 ml' or . = 'Ehsas (Khas) 100 ml')]</value>
+      <webElementGuid>d758845d-1bbb-4a06-acd9-3efdf5f2bb5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

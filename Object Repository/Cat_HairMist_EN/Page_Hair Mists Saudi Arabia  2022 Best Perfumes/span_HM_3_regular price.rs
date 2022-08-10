@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HM_3_regular price</name>
+   <tag></tag>
+   <elementGuidId>7af39695-dcf4-4ac1-bfe3-cb17e061b383</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[3]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>30781194-4920-426c-98c7-6a32464ccc2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 191.31 SAR</value>
+      <webElementGuid>a79db815-6332-4b17-a281-c609f2d4c86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;styles_main___hWF4&quot;]/div[@class=&quot;main-page&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;product-list-container&quot;]/div[@class=&quot;styles_productCard__qAttO&quot;]/div[@class=&quot;styles_priceContainer__wnnVZ&quot;]/span[1]</value>
+      <webElementGuid>8d188384-02df-4bbe-bcc9-e3c2f0348213</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[3]/div[2]/span</value>
+      <webElementGuid>2f352e4e-f92a-4f84-9335-97d6f51783f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hair mists musk rose'])[1]/following::span[1]</value>
+      <webElementGuid>cd8610d6-2ead-417d-af73-23510e850067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::span[4]</value>
+      <webElementGuid>53f95707-f948-4345-be60-c19c4fbeb1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[2]/preceding::span[5]</value>
+      <webElementGuid>d31dc92d-3c12-4ec6-af9c-53d958a15d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[3]/div[2]/span</value>
+      <webElementGuid>2b7cbfd6-33cd-474f-b550-76c20bfd7036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 191.31 SAR' or . = ' 191.31 SAR')]</value>
+      <webElementGuid>84c83657-b150-466b-bb4b-c3086c6f3f70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

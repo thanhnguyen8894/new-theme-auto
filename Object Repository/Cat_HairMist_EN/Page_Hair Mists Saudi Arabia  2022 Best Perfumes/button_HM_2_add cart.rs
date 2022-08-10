@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_HM_2_add cart</name>
+   <tag></tag>
+   <elementGuidId>d7d3c451-4c89-4331-bd8d-195e47abf2f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[2]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e4226713-a15f-4472-ae16-0ccf384e068a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--white styles_addToCartButton__mn3JM</value>
+      <webElementGuid>3d9ae0c0-6bae-41e2-b439-780289937a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>baf05148-1a81-40df-af4e-29752596a73f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;styles_main___hWF4&quot;]/div[@class=&quot;main-page&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;product-list-container&quot;]/div[@class=&quot;styles_productCard__qAttO&quot;]/div[@class=&quot;styles_bottomContainer__Y2EKg&quot;]/button[@class=&quot;button button--white styles_addToCartButton__mn3JM&quot;]</value>
+      <webElementGuid>f930669f-ee3e-402e-8e6f-6f13a858c0ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[2]/div[3]/button</value>
+      <webElementGuid>531eb519-c7b7-4c5c-9dae-08ee4e5a1ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[4]/following::button[1]</value>
+      <webElementGuid>f3e27faa-fa67-4bb7-b210-88a5f080270d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hair mists musk rose'])[1]/preceding::button[2]</value>
+      <webElementGuid>3af17db6-76d7-4842-97c7-a46bdfe5551b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to Cart']/parent::*</value>
+      <webElementGuid>958acc64-0c36-42b6-a797-d767ef083767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div[3]/button</value>
+      <webElementGuid>876804dd-08ea-4a42-9d8b-da868632f951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>a11e8319-c15e-43e7-aa95-524f588f2427</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

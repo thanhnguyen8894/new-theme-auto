@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BS_3_regular price</name>
+   <tag></tag>
+   <elementGuidId>c56e027b-fc54-4379-81ee-7d73267f8260</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[3]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c5041c2-4ffe-4c8e-bce8-db786fcf2302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 547.83 SAR</value>
+      <webElementGuid>78677121-2238-4952-8b54-7a233b05ac52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;styles_main___hWF4&quot;]/div[@class=&quot;main-page&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;product-list-container&quot;]/div[@class=&quot;styles_productCard__qAttO&quot;]/div[@class=&quot;styles_priceContainer__wnnVZ&quot;]/span[1]</value>
+      <webElementGuid>09b7036c-994d-4b4e-bd82-10be4a854d9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div[2]/div[4]/div/div/div[3]/div[2]/span</value>
+      <webElementGuid>662791db-f0d3-4d8a-a62d-35a94390ae49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diwan'])[1]/following::span[1]</value>
+      <webElementGuid>feca6ff5-94c1-45a2-8a6d-c741be56ee43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[2]/following::span[2]</value>
+      <webElementGuid>6f7ab363-1f47-40ac-a524-4ccd0a87f0e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sold out'])[1]/preceding::span[5]</value>
+      <webElementGuid>7811b211-dbd6-4fff-8d15-27d72d8f8174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[3]/div[2]/span</value>
+      <webElementGuid>a6f7df21-284d-4818-9a4e-d4f41126f0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 547.83 SAR' or . = ' 547.83 SAR')]</value>
+      <webElementGuid>9ab329fc-0db4-40ed-aa35-f09abfbf679a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

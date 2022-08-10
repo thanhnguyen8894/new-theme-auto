@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Category_Name_Spray  Sanitizer</name>
+   <tag></tag>
+   <elementGuidId>a69d2778-ee38-4a16-a91e-6eb88832cb71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[4]/div/a[5]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dc6b9fe2-9d1e-4bd2-b70f-95b8b96a5ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Spray &amp; Sanitizer</value>
+      <webElementGuid>37067af2-94b3-4e2e-afd1-e95dd0cceea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header__container&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;styles_megaMenu__Niti_&quot;]/div[@class=&quot;styles_mainMegaMenu___v0_9&quot;]/a[@class=&quot;styles_megaMenuItem__v14fq false&quot;]/p[1]</value>
+      <webElementGuid>a9193668-e920-445d-bec0-60a46e7614f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[4]/div/a[5]/p</value>
+      <webElementGuid>55c15590-a786-4fff-a67b-517bd3a4fa0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Feedback'])[3]/following::p[5]</value>
+      <webElementGuid>854779a4-5435-4b2f-a796-1f3c7ccd379c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Us'])[3]/following::p[5]</value>
+      <webElementGuid>46836547-8955-43cc-8e45-292cc2b9ccd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Sellers'])[2]/preceding::p[2]</value>
+      <webElementGuid>a5e8a4ec-7f45-4a65-aeca-51d76b219384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/p</value>
+      <webElementGuid>0477817d-c970-4b0c-9870-2ea956a22dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Spray &amp; Sanitizer' or . = 'Spray &amp; Sanitizer')]</value>
+      <webElementGuid>636b2496-08bd-4494-b61a-99e7e2ec19a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

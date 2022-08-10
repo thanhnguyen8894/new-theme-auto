@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Best Sellers category</name>
+   <tag></tag>
+   <elementGuidId>b509efb1-3da1-4ecb-8969-bae8009575a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.styles_megaMenuItem__v14fq.styles_megaMenuItemSpecial__CTMt5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>305f32fa-a4f7-40ba-810a-e8d96eac3cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_megaMenuItem__v14fq styles_megaMenuItemSpecial__CTMt5</value>
+      <webElementGuid>7e7cf11b-77d3-48c5-9fd7-c829c5abcd21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/best-sellers.html</value>
+      <webElementGuid>c7afb8e8-f9d7-490a-8351-13e272fb0d15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Best Sellers</value>
+      <webElementGuid>13b67e54-57c2-4f93-a44c-c617802a304d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;header__container&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;styles_megaMenu__Niti_&quot;]/div[@class=&quot;styles_mainMegaMenu___v0_9&quot;]/a[@class=&quot;styles_megaMenuItem__v14fq styles_megaMenuItemSpecial__CTMt5&quot;]</value>
+      <webElementGuid>2811edfe-76c6-4ed3-b045-c919517c0944</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[4]/div/a[7]</value>
+      <webElementGuid>f44e834a-351b-4274-95bf-75794d168dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Best Sellers')])[2]</value>
+      <webElementGuid>4a8eb4dd-2218-4836-85af-0ba2a77e4372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Feedback'])[3]/following::a[10]</value>
+      <webElementGuid>64190ae6-aea7-48d1-8ea0-226c49b9aa19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Us'])[3]/following::a[11]</value>
+      <webElementGuid>af54a210-ecfa-434b-92f5-53c7212a8fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/en/best-sellers.html')])[2]</value>
+      <webElementGuid>82cbf00b-251d-4c81-9b9a-28434db8a5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]</value>
+      <webElementGuid>6d4c3a05-0540-4fc7-89ab-f237c23da7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/best-sellers.html' and (text() = 'Best Sellers' or . = 'Best Sellers')]</value>
+      <webElementGuid>2e98c719-088f-4875-aa57-fe46074a0c98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

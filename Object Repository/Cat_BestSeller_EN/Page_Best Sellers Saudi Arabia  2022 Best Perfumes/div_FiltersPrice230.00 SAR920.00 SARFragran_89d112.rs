@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FiltersPrice230.00 SAR920.00 SARFragran_89d112</name>
+   <tag></tag>
+   <elementGuidId>6c5eeb88-b139-41f6-b49d-123ab5143763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_main___hWF4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fff75bc7-5877-4a3e-b159-8df2bd1cf752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_main___hWF4</value>
+      <webElementGuid>723fbd95-d25f-4cde-8c1a-ff7ca44eb2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FiltersPrice 230.00 SAR 920.00 SARFragranceFor MenUnisexFor WomenOriginsWesternOrientalMix (Oriental &amp; Western)size100 ml75 ml90 mlTypeSprayDiscardApplyBest SellersHome/Best SellersBest SellersFilterPositionPositionProduct NameDiscountBest SellersMost ViewedNow in WishlistsReviews CountTop RatedNewBiggest SavingPrice: low to highPrice: high to lowarabian leather 495.66 SARAdd to CartArabella 382.61 SARAdd to CartDiwan 547.83 SARSold outAl Fareed 739.14 SARAdd to Cart53%Sultani 634.78 SAR 300.00 SARAdd to CartEhsas (Khas) 100 ml 286.96 SARAdd to CartAmiri 75 ml 543.48 SARAdd to CartBella  100 Ml 239.13 SARAdd to CartMadawi ,90 ml 560.87 SARAdd to CartWoody 100 ml 252.17 SARAdd to CartKalemat for Unisex, 100 ml 300.00 SARAdd to Cart</value>
+      <webElementGuid>a3c1d793-0514-4453-b3b4-39c2c03d8e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;styles_main___hWF4&quot;]</value>
+      <webElementGuid>2b259abf-2553-448f-b80d-91d7d1fc13ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]</value>
+      <webElementGuid>f12d2d97-70db-43d4-8b47-6e3df0bd373a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Sellers'])[2]/following::div[3]</value>
+      <webElementGuid>092c7db6-a5ee-473b-912f-cf4429f2d0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Feedback'])[3]/following::div[18]</value>
+      <webElementGuid>f22cd5a0-b48e-48ee-aa26-03f57a32aad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>f3c1136d-4838-4dc5-9d3d-3d260c540f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FiltersPrice 230.00 SAR 920.00 SARFragranceFor MenUnisexFor WomenOriginsWesternOrientalMix (Oriental &amp; Western)size100 ml75 ml90 mlTypeSprayDiscardApplyBest SellersHome/Best SellersBest SellersFilterPositionPositionProduct NameDiscountBest SellersMost ViewedNow in WishlistsReviews CountTop RatedNewBiggest SavingPrice: low to highPrice: high to lowarabian leather 495.66 SARAdd to CartArabella 382.61 SARAdd to CartDiwan 547.83 SARSold outAl Fareed 739.14 SARAdd to Cart53%Sultani 634.78 SAR 300.00 SARAdd to CartEhsas (Khas) 100 ml 286.96 SARAdd to CartAmiri 75 ml 543.48 SARAdd to CartBella  100 Ml 239.13 SARAdd to CartMadawi ,90 ml 560.87 SARAdd to CartWoody 100 ml 252.17 SARAdd to CartKalemat for Unisex, 100 ml 300.00 SARAdd to Cart' or . = 'FiltersPrice 230.00 SAR 920.00 SARFragranceFor MenUnisexFor WomenOriginsWesternOrientalMix (Oriental &amp; Western)size100 ml75 ml90 mlTypeSprayDiscardApplyBest SellersHome/Best SellersBest SellersFilterPositionPositionProduct NameDiscountBest SellersMost ViewedNow in WishlistsReviews CountTop RatedNewBiggest SavingPrice: low to highPrice: high to lowarabian leather 495.66 SARAdd to CartArabella 382.61 SARAdd to CartDiwan 547.83 SARSold outAl Fareed 739.14 SARAdd to Cart53%Sultani 634.78 SAR 300.00 SARAdd to CartEhsas (Khas) 100 ml 286.96 SARAdd to CartAmiri 75 ml 543.48 SARAdd to CartBella  100 Ml 239.13 SARAdd to CartMadawi ,90 ml 560.87 SARAdd to CartWoody 100 ml 252.17 SARAdd to CartKalemat for Unisex, 100 ml 300.00 SARAdd to Cart')]</value>
+      <webElementGuid>2155e9d0-f1a7-4eb8-9356-13b6386e3f00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
